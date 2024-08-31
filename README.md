@@ -1,4 +1,4 @@
 # EyeTracking_Image-Video
 
 ![image](/data/output.jpg)
-![video](/data/output.mp4)
+[video](/data/output.mp4)
